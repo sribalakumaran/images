@@ -5,7 +5,7 @@ This workflow can be divided into two parts:
 1. **Image to Text:** An image is given as input, and text is generated using a custom node.
 2.  **LLM Chatbot to Generate Image:** The text is passed to the chatbot, and additional text can also be provided to the bot. The chatbot will return text from which we generate an image.
 # Overview
-![Workflow]((https://github.com/sribalakumaran/images/blob/main/wholeworkflow.JPG))
+![Workflow](https://github.com/sribalakumaran/images/blob/main/wholeworkflow.JPG)
 
 git hub link:https://github.com/zhongpei/Comfyui_image2prompt/tree/main
 
