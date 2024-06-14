@@ -5,10 +5,10 @@ This workflow can be divided into two parts:
 1. **Image to Text:** An image is given as input, and text is generated using a custom node.
 2.  **LLM Chatbot to Generate Image:** The text is passed to the chatbot, and additional text can also be provided to the bot. The chatbot will return text from which we generate an image.
 # Overview
-![Custom nodes](https://drive.google.com/drive/u/0/my-drive)
+![Workflow](https://drive.google.com/drive/u/0/my-drive)
 This custom node is used to obtain information about the image.
 git hub link:https://github.com/zhongpei/Comfyui_image2prompt/tree/main
-![phi3mini nodes](https://drive.google.com/drive/u/0/my-drive)
+
 ## How to use the workflow
 Download the custom nodes using the above git link
 Download image to prompt models into the plugin's  `ComfyUI/models/image2text`  directories, respectively. Use the following links for downloading:
@@ -34,4 +34,4 @@ In summary, this scene captures a moment of motion and contrast between the man-
 ### Our text input
 
     raining weather
-![Output image](https://drive.google.com/drive/u/0/my-drive)
+![Output image](https://github.com/sribalakumaran/images/blob/main/ComfyUI_temp_jpuop_00013_.png)
